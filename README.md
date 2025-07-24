@@ -33,9 +33,9 @@ I'm a DevOps Engineering Team Leader based in Bath, UK. This is the home of my h
 
 [![layill's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=laywill&show_icons=true&theme=tokyonight)](https://github.com/laywill)
 
+<!--
 ## Support
 
-<!--
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/##USERNAME##)
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
