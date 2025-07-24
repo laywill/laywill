@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-I'm a DevOps Engineering Manager based in Bath, UK. This is the home of my home and side projects.
+I'm a DevOps Engineering Team Leader based in Bath, UK. This is the home of my home and side projects.
 
 😄 Pronouns: He/Him - [Why this is important.](https://medium.com/gender-inclusivit/why-i-put-pronouns-on-my-email-signature-and-linkedin-profile-and-you-should-too-d3dc942c8743)
 
